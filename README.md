@@ -1,4 +1,7 @@
 # Vision-OS
+
+![Vision OS Image](./public/assets/hero-background.png)
+
 Website with design similar to what you see inside an Apple's Vision Pro. Created using Framer Motion, Nextjs, TailwindCSS and Shadcn!!
 Hosted at https://vision-os.xyz and https://vos.theme-verse.com!
 
