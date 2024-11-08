@@ -6,6 +6,7 @@ Hosted at https://vision-os.xyz and https://vos.theme-verse.com!
 ## **Things to note**
 - Note that running this in development mode might throw some errors which you will need to fix manually after installing the required packages
 - **You cannot use this repo for the hackclub high seas if you are a member of hackclub**
+- Changes are under progress and more things will be added to this, including documentation, images and more icons
 
 
 ## Inspiration 
