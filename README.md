@@ -14,6 +14,8 @@ This components are made in Framer Motion and are 100% customizable. **Dedicated
 The major components are Button, Cursor, Dropdown Menu, Input, Hoverable, List, Navigation Bar, Ornament, Sidebar, Text Effect, Toolbar, Window and View Component. 
 
 ## Running in development mode!
+
+Note that running this in development mode might throw some errors which you will need to fix manually after installing the required packages
 To run this in development mode, do the following steps:
 
 ```bash
