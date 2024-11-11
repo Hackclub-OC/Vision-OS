@@ -1,6 +1,17 @@
 # Vision-OS
+
+![Vision OS Image](./public/assets/hero-background.png)
+
 Website with design similar to what you see inside an Apple's Vision Pro. Created using Framer Motion, Nextjs, TailwindCSS and Shadcn!!
 Hosted at https://vision-os.xyz and https://vos.theme-verse.com!
+
+
+## **Things to note**
+- **MIT LICENSE WILL BE ADDED TO IT AFTER COMPLETION**
+- Note that running this in development mode might throw some errors which you will need to fix manually after installing the required packages `due to additional updates`
+- **You cannot use this repo for the hackclub high seas if you are a member of hackclub**
+- Changes are under progress and more things will be added to this, including documentation, images and more icons
+
 
 ## Inspiration 
 The inspiration for this website is gattered from various components, websites and people!
@@ -14,6 +25,8 @@ This components are made in Framer Motion and are 100% customizable. **Dedicated
 The major components are Button, Cursor, Dropdown Menu, Input, Hoverable, List, Navigation Bar, Ornament, Sidebar, Text Effect, Toolbar, Window and View Component. 
 
 ## Running in development mode!
+
+Note that running this in development mode might throw some errors which you will need to fix manually after installing the required packages `due to additional updates`
 To run this in development mode, do the following steps:
 
 ```bash
