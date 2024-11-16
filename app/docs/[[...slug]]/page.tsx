@@ -24,8 +24,8 @@ export default async function Page({
   if (!page) notFound();
 
   const time = await getGithubLastEdit({
-    owner: "fluid-design-io",
-    repo: "vision-ui",
+    owner: "Hackclub-OC",
+    repo: "Vision-OS",
     path: `content/docs/${page.file.path}`,
   });
 
@@ -40,8 +40,8 @@ export default async function Page({
       }}
       lastUpdate={time ? new Date(time) : undefined}
       editOnGithub={{
-        owner: "fluid-design-io",
-        repo: "vision-ui",
+        owner: "Hackclub-OC",
+        repo: "Vision-OS",
         sha: "main",
         path: `content/docs/${page.file.path}`,
       }}

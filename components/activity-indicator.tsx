@@ -1,4 +1,3 @@
-
 import { SVGProps } from "react";
 
 export const ActivityIndicator = (props: SVGProps<SVGSVGElement>) => {
@@ -89,4 +88,3 @@ export const ActivityIndicator = (props: SVGProps<SVGSVGElement>) => {
     </svg>
   );
 };
-
