@@ -6,6 +6,10 @@ Website with design similar to what you see inside an Apple's Vision Pro. Create
 Hosted at https://vision-os.xyz and https://vos.theme-verse.com!
 
 
+⚠️ **Warning:** The current commits are working fine in development mode but due to a plugin it is throwing an error in production. **Working on the fix currently**. Production will be updated soon!
+
+
+
 ## **Things to note**
 - **MIT LICENSE WILL BE ADDED TO IT SOON**
 - Note that running this in development mode might throw some errors which you will need to fix manually after installing the required packages `due to additional updates`
