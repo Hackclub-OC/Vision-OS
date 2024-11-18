@@ -12,8 +12,7 @@ Hosted at https://vision-os.xyz and https://vos.theme-verse.com!
 
 ## **Things to note**
 - **MIT LICENSE WILL BE ADDED TO IT SOON**
-- **You cannot use this repo for the hackclub high seas if you are a member of hackclub**
-- Changes are under progress and more things will be added to this, including documentation, images and more icons
+- Changes are under progress and more things will be added to this, including documentation, images, icons, camera option and maybe games! 
 
 
 ## Inspiration 
