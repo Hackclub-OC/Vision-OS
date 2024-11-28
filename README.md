@@ -11,7 +11,7 @@ Hosted at https://vision-os.xyz and https://vos.theme-verse.com!
 
 
 ## **Things to note**
-- Changes are under progress and more things will be added to this including **images, icons, camera option and maybe games!**. Building on top of [Oliver Pan's Work](https://github.com/fluid-design-io)
+- Changes are under progress and more things will be added to this including **images, icons, camera option and maybe games!**.
 
 
 ## Components Usage
