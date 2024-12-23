@@ -12,7 +12,7 @@ Hosted at https://vision-os.xyz and https://vos.theme-verse.com!
 
 ## **Things to note**
 - Changes are under progress and more things will be added to this including **images, icons, camera option and maybe games!**.
-
+- Most of the work in this repository is of @fluid-design-io and I am just trying to make it better by adding more features in it. 
 
 ## Components Usage
 This components are made in Framer Motion and are 100% customizable. Dedicated documentation is in progress and will be added soon. Currently you can use or see the components in the `components/core` folder.
